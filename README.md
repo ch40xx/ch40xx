@@ -9,7 +9,8 @@ mostly quiet, mostly working.
 ![Arch](https://img.shields.io/badge/-Arch-000?style=flat-square&logo=archlinux&logoColor=white)
 ![Ollama](https://img.shields.io/badge/-Ollama-000?style=flat-square&logo=ollama&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-000?style=flat-square&logo=docker&logoColor=white)
-
+![Fish](https://img.shields.io/badge/-Fish-000?style=flat-square&logo=docker&logoColor=white)
+![Langchain](https://img.shields.io/badge/-Langchain-000?style=flat-square&logo=docker&logoColor=white)
 ---
 
 *still figuring out what comes next*
